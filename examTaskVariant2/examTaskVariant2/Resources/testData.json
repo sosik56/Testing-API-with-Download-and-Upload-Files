@@ -1,0 +1,10 @@
+{
+    "existProjectName": "Nexage",
+    "variant": "2",
+    "testsNumber": "20",
+    "tokenName": "token",
+    "nameOfCreatingProject": "NewestProject24",
+    "testName": "TestNAme3",
+    "methodName": "MethodNAme",
+    "env": "localhost"
+}
